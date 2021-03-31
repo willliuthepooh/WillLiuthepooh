@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WillLiuthepooh
 - 👀 I’m interested in lots of things, but right now I want to learn how to use github
 - 🌱 I’m currently learning the basics of programming
-- 💞️ I’m looking to collaborate on anything I can help with :)
+- 💞️ I’m looking to collaborate on anything I can help with, which is probably not much as of right now :)
 - 📫 How to reach me willtliu1999@gmail.com
 
 <!---
