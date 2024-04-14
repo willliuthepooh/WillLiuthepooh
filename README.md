@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WillLiuthepooh
-- 👀 I’m interested in lots of things, but right now I want to learn how to use github
-- 🌱 I’m currently learning the basics of programming
-- 📫 How to reach me willtliu1999@gmail.com
+- 👀 I have 3 years work experience, in consulting, sales, and data analysis
+- 🌱 I’m an avid gamer, volleyball player, and lover of nature
+- 📫 You can reach me at willtliu1999@gmail.com
 
 <!---
 WillLiuthepooh/WillLiuthepooh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
