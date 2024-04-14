@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WillLiuthepooh
-- 👀 I have 3 years work experience, in consulting, sales, and data analysis
+- 👀 I have 3 years work experience in consulting, sales, and data analysis
 - 🌱 I’m an avid gamer, volleyball player, and lover of nature
 - 📫 You can reach me at willtliu1999@gmail.com
 
